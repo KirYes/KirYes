@@ -7,8 +7,7 @@
 ### Hi there 👋, I'm Kyrylo Yesypenko 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHhoOXh6YnA0ZjM5ODNwdG5zOHM1N3lzaGNndmQ3MXRwZHBqN2w1YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MNprNJEYONFQI/giphy.gif" height="100" width="1000">
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=KirYes&style=flat-square)
-
+![Visitor Badge](https://komarev.com/ghpvc/?username=KirYes&style=flat&label=My+Profile+Visitors:&color=000000)
 </div>
 
 ---
@@ -71,9 +70,14 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=KirYes&show_icons=true&bg_color=00000000&hide_border=true&theme=tokyonight" width="300" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirYes&bg_color=00000000&layout=compact&hide_border=true&theme=tokyonight" width="300" />&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KirYes&theme=tokyonight&background=00000000&layout=compact&hide_border=true" width="300" />
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=KirYes&show_icons=true&bg_color=00000000&hide_border=true&theme=tokyonight" width="500"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirYes&bg_color=00000000&layout=compact&hide_border=true&theme=tokyonight" width="500"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=KirYes&theme=tokyonight&background=00000000&layout=compact&hide_border=true" width="500"/></td>
+  </tr>
+</table>
+
 
 
 
