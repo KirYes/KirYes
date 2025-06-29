@@ -1,7 +1,20 @@
 
-## Hi there 👋, I'm Kyrylo Yesypenko
-<details>
-  <summary>🚀 About Me  </summary>
+<div align="center">
+  
+
+
+  
+### Hi there 👋, I'm Kyrylo Yesypenko 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NHhoOXh6YnA0ZjM5ODNwdG5zOHM1N3lzaGNndmQ3MXRwZHBqN2w1YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MNprNJEYONFQI/giphy.gif">
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=KirYes&style=flat-square)
+
+</div>
+
+---
+### 🚀 About Me 
+ <details>
+  <summary> Click if interested</summary>
 <br>
   
  I'm a third-year Software Engineering student at **Politechnika Opolska** (Poland), originally from **Ukraine 🇺🇦**, passionate about building software and exploring new technologies.
@@ -58,27 +71,32 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirYes&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirYes&layout=compact&hide_border=true&theme=tokyonight)
-![Daily streak graph](https://github-readme-streak-stats.herokuapp.com/?user=KirYes&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=KirYes&show_icons=true&bg_color=00000000&hide_border=true&theme=tokyonight" width="327" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirYes&bg_color=00000000&layout=compact&hide_border=true&theme=tokyonight" width="327" />&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KirYes&theme=tokyonight&background=00000000&layout=compact&hide_border=true" width="327" />
+
+
+
+
 ---
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KirYes&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KirYes&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ---
 
-### 👁️ Visitor Count
-![Visitor Badge](https://komarev.com/ghpvc/?username=KirYes&style=flat-square)
 
----
 
-### 📂 Projects
-- [FirstWebsite](https://github.com/KirYes/FirstWebsite) – My first ever made website
-- [ComplexNumbersCalculatorQt](https://github.com/KirYes/ComplexNumbersCalculatorQt) – First GUI project in C++ using Qt
-- [AnimalMatchingGameMAUI](https://github.com/KirYes/AnimalMatchingGameMAUI) – A game built in C# using MAUI (while reading *Head First C#*)
-- [StudentNotesAppWPF](https://github.com/KirYes/StudentNotesAppWPF) – A student notes application in C# with WPF (university project)
-- [WebsiteASP.NET-Core](https://github.com/KirYes/WebsiteASP.NET-Core) – A .NET Core website with ChatGPT API, Entity Framework, Identity, and a 3D multiplayer game (university project)
+### 📂 Featured Projects
+
+🔹 [**FirstWebsite**](https://github.com/KirYes/FirstWebsite): My first ever website  
+🔹 [**ComplexNumbersCalculatorQt**](https://github.com/KirYes/ComplexNumbersCalculatorQt): GUI calculator using Qt (C++)  
+🔹 [**AnimalMatchingGameMAUI**](https://github.com/KirYes/AnimalMatchingGameMAUI): Game in C# using MAUI  
+🔹 [**StudentNotesAppWPF**](https://github.com/KirYes/StudentNotesAppWPF): Notes app in C# with WPF  
+🔹 [**WebsiteASP.NET-Core**](https://github.com/KirYes/WebsiteASP.NET-Core): .NET Core app with ChatGPT API, EF, and multiplayer 3D game
+
 
 ---
 
