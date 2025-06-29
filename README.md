@@ -1,7 +1,12 @@
-## Hi there 👋, I'm Kyrylo Yesypenko
 
-### 🚀 About Me
-I'm a third-year Software Engineering student at **Politechnika Opolska** (Poland), originally from **Ukraine 🇺🇦**, passionate about building software and exploring new technologies.
+## Hi there 👋, I'm Kyrylo Yesypenko
+<details>
+  <summary>🚀 About Me  </summary>
+<br>
+  
+ I'm a third-year Software Engineering student at **Politechnika Opolska** (Poland), originally from **Ukraine 🇺🇦**, passionate about building software and exploring new technologies.
+
+<br>
 
 - 💬 Ask me about anything you want
 - 📫 How to reach me: kyrylo.yesypenko@student.po.edu.pl
@@ -69,11 +74,11 @@ I'm a third-year Software Engineering student at **Politechnika Opolska** (Polan
 ---
 
 ### 📂 Projects
-- 🔹 [FirstWebsite](https://github.com/KirYes/FirstWebsite) – My first ever made website
-- 🔹 [ComplexNumbersCalculatorQt](https://github.com/KirYes/ComplexNumbersCalculatorQt) – First GUI project in C++ using Qt
-- 🔹 [AnimalMatchingGameMAUI](https://github.com/KirYes/AnimalMatchingGameMAUI) – A game built in C# using MAUI (while reading *Head First C#*)
-- 🔹 [StudentNotesAppWPF](https://github.com/KirYes/StudentNotesAppWPF) – A student notes application in C# with WPF (university project)
-- 🔹 [WebsiteASP.NET-Core](https://github.com/KirYes/WebsiteASP.NET-Core) – A .NET Core website with ChatGPT API, Entity Framework, Identity, and a 3D multiplayer game (university project)
+- [FirstWebsite](https://github.com/KirYes/FirstWebsite) – My first ever made website
+- [ComplexNumbersCalculatorQt](https://github.com/KirYes/ComplexNumbersCalculatorQt) – First GUI project in C++ using Qt
+- [AnimalMatchingGameMAUI](https://github.com/KirYes/AnimalMatchingGameMAUI) – A game built in C# using MAUI (while reading *Head First C#*)
+- [StudentNotesAppWPF](https://github.com/KirYes/StudentNotesAppWPF) – A student notes application in C# with WPF (university project)
+- [WebsiteASP.NET-Core](https://github.com/KirYes/WebsiteASP.NET-Core) – A .NET Core website with ChatGPT API, Entity Framework, Identity, and a 3D multiplayer game (university project)
 
 ---
 
@@ -84,3 +89,4 @@ I'm a third-year Software Engineering student at **Politechnika Opolska** (Polan
 - 🛠 Building: [Coming soon!]
 
 ---
+</details>
