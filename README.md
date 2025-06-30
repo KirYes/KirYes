@@ -5,7 +5,7 @@
 
   
 ### Hi there 👋, I'm Kyrylo Yesypenko 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRpODBqc285N3BvMnh0dTNsdjk0ZG0xOGFxdWp1dGduMmRtcHVjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hbCS6mUPvSMkqV8Cgx/giphy.gif" height="250" width="1000">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRpODBqc285N3BvMnh0dTNsdjk0ZG0xOGFxdWp1dGduMmRtcHVjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hbCS6mUPvSMkqV8Cgx/giphy.gif" height="150" width="1000">
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=KirYes&style=flat&label=My+Profile+Visitors:&color=000000)
 </div>
