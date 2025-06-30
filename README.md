@@ -5,7 +5,7 @@
 
   
 ### Hi there 👋, I'm Kyrylo Yesypenko 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRpODBqc285N3BvMnh0dTNsdjk0ZG0xOGFxdWp1dGduMmRtcHVjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hbCS6mUPvSMkqV8Cgx/giphy.gif" height="150" width="1000">
+<img src="https://d9fx076u4lynm.cloudfront.net/m6n4jt%2Fpreview%2F68562455%2Fmain_full.gif?response-content-disposition=inline%3Bfilename%3D%22main_full.gif%22%3B&response-content-type=image%2Fgif&Expires=1751243194&Signature=Z4biwLptelSOb6ISdVhJ-Onti5WenVLuM6philPLvdkIJaXSNV1oYBNgAe0DSNDbr4FaQCOEcyxnl0lH6HOR0wgZ5~QFAZ4q976ubGiZwUBr4V7WCoYY3b~UrnS5gaYUYqOtmgPAgvFcMNZyfTQCZyYP8Z0oOmMzwLLqKLLSyrjxuEUDgkcBgHQLhsaM5xPYetwEBjOznMadUE1BgSk2qxV2Q44kq2BB-JS2NVDMWeD0gYqXBkvGIiE0qsWSuimCs25JNJ-uwwRAPCivqgDH8hnKt7Eyyg9KXx3AfQXHE~U9NUZGcCWNy9xPAC1IhZK0Zlbe2oDzGJzUsu0BY9k~6g__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" height="150" width="1000">
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=KirYes&style=flat&label=My+Profile+Visitors:&color=000000)
 </div>
