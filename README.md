@@ -5,7 +5,7 @@
 
   
 ### Hi there 👋, I'm Kyrylo Yesypenko 
-<img src="https://s1.ezgif.com/tmp/ezgif-13381087dc9838.gif" height="150" width="1000">
+<img src="https://s1.ezgif.com/tmp/ezgif-1bebfbf7f2f69e.gif" height="150" width="1000">
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=KirYes&style=flat&label=My+Profile+Visitors:&color=000000)
 </div>
