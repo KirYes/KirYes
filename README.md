@@ -69,6 +69,16 @@
 
 ---
 
+  
+### LeetCode Stats
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kiryes?theme=nord&font=Baloo&ext=heatmap&border=0)](https://leetcode.com/kiryes)
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
